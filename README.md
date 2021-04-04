@@ -1,1 +1,5 @@
 # World_Weather_Analysis
+PyTrip wanted to develop an app called PlanMyTrip that would recommend ideal hotels based on the clients' weather preferences. In the initial phase of the project, PlanMyTrip was able to show the hotel name, city, country and maximum temperature based on a customer's minimum and maximum temperature preference. The purpose of this project is to add a current weather description to the hotel data. The three main components of this project are:
+- Retrieving weather data for more than 700 random cities using an OpenWeatherMap API and add the current weather description for each city (Weather_Database)
+- Update the potential travel destinations based on the customer's weather preferences (Vacation_Search)
+- Create a travel itinerary based on the customer's potential travel destinations that shows the route between four cities at one of the destinations (Vacation_Itinerary)
